@@ -1,0 +1,1 @@
+connecter Hystrix dashboard pour plusieurs EndPont on utilise turbine =servie qui permet de connnecter à plusieurs streams 
